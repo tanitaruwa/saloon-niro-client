@@ -1,0 +1,15 @@
+p{color: #660909;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: medium;}
+button{background-color: #0a0212;
+    color: rgb(239, 233, 243);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;}
+    #HI{color: #6fdd67;}
+    .price-tag{
+        color: #05661f;
+        font-size: 20px;
+        font-weight: bold;
+    } 
